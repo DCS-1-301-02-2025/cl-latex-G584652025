@@ -1,10 +1,10 @@
-This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.6.1)  29 JUN 2025 16:42
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.5.9)  30 JUN 2025 14:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/minohara/Library/CloudStorage/Dropbox/01-University/01-Education/10-Lecture/Literacy/Exercise/LaTeX/sample.tex
-(/Users/minohara/Library/CloudStorage/Dropbox/01-University/01-Education/10-Lecture/Literacy/Exercise/LaTeX/sample.tex
+**/Users/tonouchiryota/Desktop/Literacy/cl-latex-G584652025/sample.tex
+(/Users/tonouchiryota/Desktop/Literacy/cl-latex-G584652025/sample.tex
 pLaTeX2e <2023-02-14u04>+1, based on
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -56,13 +56,27 @@ File: dvipdfmx.def 2022/09/22 v5.0m Graphics/color driver for dvipdfmx
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (./layout.tex) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-dvipdfmx.def
+) (./layout.tex)
+
+/Users/tonouchiryota/Desktop/Literacy/cl-latex-G584652025/sample.tex:10: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ∫
+        
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-dvipdfmx.def
 File: l3backend-dvipdfmx.def 2024-05-08 L3 backend support: dvipdfmx
 \g__graphics_track_int=\count271
 \l__pdf_internal_box=\box69
 \g__pdf_backend_annotation_int=\count272
 \g__pdf_backend_link_int=\count273
-) (./sample.aux)
+)
+No file sample.aux.
 \openout1 = `sample.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -83,6 +97,11 @@ LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
+
+
+[1
+
+]
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
 (Font)              scaled to size 16.62714pt on input line 13.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
@@ -113,30 +132,59 @@ LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY2/gt/m/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 15.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 17.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 17.
+
+
+LaTeX Warning: Citation `soumu' on page 2 undefined on input line 17.
+
+
+LaTeX Warning: Reference `fig:保有率' on page 2 undefined on input line 18.
+
 File: possession.png Graphic file (type bmp)
 <possession.png>
+
+LaTeX Warning: Reference `tbl:利用状況' on page 2 undefined on input line 32.
+
+
+LaTeX Warning: Citation `corona' on page 2 undefined on input line 35.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 42.
 
+LaTeX Warning: Citation `corona' on page 2 undefined on input line 64.
 
-[1
 
-] (./sample.bbl)
 
-[2] (./sample.aux)
+[2] (./sample.bbl)
+
+[3] (./sample.aux)
  ***********
 pLaTeX2e <2023-02-14u04>+1, based on
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 1084 strings out of 473836
- 18202 string characters out of 5731191
- 412046 words of memory out of 5000000
- 24377 multiletter control sequences out of 15000+600000
- 568047 words of font info for 81 fonts, out of 8000000 for 9000
+ 1087 strings out of 473836
+ 18100 string characters out of 5731191
+ 412048 words of memory out of 5000000
+ 24381 multiletter control sequences out of 15000+600000
+ 568642 words of font info for 84 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 57i,8n,65p,308b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,8n,65p,268b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sample.dvi (2 pages, 4660 bytes).
+Output written on sample.dvi (3 pages, 4792 bytes).
